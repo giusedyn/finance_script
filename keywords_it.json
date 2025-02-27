@@ -1,6 +1,9 @@
 {
     "mutuo": "Pagamento mutuo",
     "condominioraye": "Quota condominio",
+    "MASINIALESSANDRO": "Affitto Masini Pietro",
+    "MasiniPietro": "Affitto Masini Pietro",
+    "GiulioGolinelli": "Affitto Golinelli Giulio",
     "SalatoAntonio": "Affitto Salato Antonio",
     "CARRAROGIACOMO": "Affitto Carraro Giacomo",
     "LAURAMARIACUSARI": "Affitto Cusari Laura",
@@ -17,5 +20,12 @@
     "BOLLETTINOCOMUNEDIMILANO": "Tasse comune Milano",
     "GIUSEPPEIPPOLITO": "Commercialista",
     "PAGAMENTOFISCO": "Tasse casa",
-    "RICARICATELEFONICA": "Ricarica telefonica"
+    "RICARICATELEFONICA": "Ricarica telefonica",
+    "A2A": "A2A Elettricità",
+    "UNOBRAVO": "Psicologo",
+    "SCARPE": "Shopping",
+    "Caff": "Bar",
+    "Ristorante": "Ristorante",
+    "DECATHLON": "DECATHLON",
+    "ATM": "ATM Milano"
 }

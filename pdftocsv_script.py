@@ -7,7 +7,7 @@ import pandas as pd
 pdf_path = "estratto_conto.pdf"
 csv_entrate_path = "estratto_conto_entrate.csv"
 csv_uscite_path = "estratto_conto_uscite.csv"
-keywords_path = "keywords.json"
+keywords_path = "keywords_it.json"
 
 def load_keywords(config_file):
     with open(config_file, 'r', encoding='utf-8') as file:
